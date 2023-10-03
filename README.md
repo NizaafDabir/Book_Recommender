@@ -6,8 +6,7 @@
 <h2> :floppy_disk: Table of Content</h2>
 
   * [Introduction](#Introduction)
-  * [Dataset Information](#dataset-information)
-  * [Tools and Technologies used](#tools-and-technologies-used)
+  * [Dataset](#dataset)
   * [Steps involved](#Steps-involved)
   * [Approaches used](#Approaches-used)
   * [Conclusion](#Conclusion)
@@ -20,7 +19,7 @@ In our increasingly digital age, the vast world of literature is at our fingerti
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h2> :book: Dataset information </h2>
+<h2> :book: Dataset </h2>
 
 Dataset used in this project is the Kaggle Book-Recommendation dataset. [Kaggle Dataset](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset)
  
@@ -48,6 +47,16 @@ This Dataset has total 3 CSV files Users.csv ,Books.csv and  Ratings.csv
 * User-ID:as mentioned above
 * ISBN:as mentioned above
 * Book-Rating: The rating given by the user (identified by User-ID) for the book (identified by ISBN). It is either explicit,expressed on a scale from 1-10 (higher values denoting higher appreciation), or implicit,expressed by 0.
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<h2> 📑 Steps involved </h2>
+
+* **Loading of Dataset in Jupyter Notebook**
+* **Data Preprocessing**
+* **Implementation of Recommender System approaches**
+* **Pickling of Dataframes**
+* **Creating Web Application using Flask**
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
