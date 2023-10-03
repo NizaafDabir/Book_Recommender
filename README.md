@@ -62,9 +62,11 @@ This Dataset has total 3 CSV files Users.csv ,Books.csv and  Ratings.csv
 
 <h2>💻 Approaches used</h2>
 
-**1. Popularity Based recommendation system :** A popularity-based recommender system, often referred to as a "popularity-based recommendation system" or "popularity recommender," is a straightforward approach to recommending items, such as books, to users based on their overall popularity or popularity within a specific group or demographic. It doesn't rely on personalized user data or preferences but instead suggests items that are already widely recognized or have gained popularity among a broad audience.
+**1. Popularity Based recommendation system :** A popularity-based recommender system, often referred to as a "popularity-based recommendation system" or "popularity recommender," is a straightforward approach to recommending items, such as books, to users based on their overall popularity or popularity within a specific group or demographic. It doesn't rely on personalized user data or preferences but instead suggests items that are already widely recognized or have gained popularity among a broad audience.Here the recommendation will be done for the most popular books which will have the highest ratings.The number of ratings will be calulated of all only those users who have done minimum 250 ratings on any books.
 
-**2. Collaborative Filitering Based recommendation system :** Collaborative Filtering is a widely used approach in recommendation systems, including those for books. It relies on user behavior and interactions to make personalized book recommendations.There are two main types of collaborative filtering User-Based Collaborative Filtering & Item-Based Collaborative Filtering.
+**2. Collaborative Filitering Based recommendation system :** Collaborative Filtering is a widely used approach in recommendation systems, including those for books. It relies on user behavior and interactions to make personalized book recommendations.There are two main types of collaborative filtering User-Based Collaborative Filtering & Item-Based Collaborative Filtering.This Recommendation sytem will recommend only those books on which the minimum book Ratings are 50 and the user has rated more than 200 times.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<h2> :bulb: Conclusion</h2>
 
