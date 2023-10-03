@@ -70,3 +70,9 @@ This Dataset has total 3 CSV files Users.csv ,Books.csv and  Ratings.csv
 
 <h2> :bulb: Conclusion</h2>
 
+* Harry Potter and the Prisoner of Azkaban (Book 3) by J. K. Rowling is most popular books with 428 votes.
+* Next Four most popular books are of the same author J. K. Rowling with the same book name Harry Potter with different series of books.
+* The Collaborative Filter Based Recommender will recommend the 5 books with minimum Book Ratings of 50 and the user rating more than 200 .
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nizaaf-dabir-524596203/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NizaafDabir)
