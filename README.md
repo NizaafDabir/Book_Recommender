@@ -21,9 +21,9 @@ In our increasingly digital age, the vast world of literature is at our fingerti
 
 <h2> :book: Dataset </h2>
 
-Dataset used in this project is the Kaggle Book-Recommendation dataset. [Kaggle Dataset](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset)
- 
-This Dataset has total 3 CSV files Users.csv ,Books.csv and  Ratings.csv  
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset)  ⬅️ Click here for the Dataset
+
+Dataset used in this project is the Kaggle Book-Recommendation dataset.This Dataset has total 3 CSV files Users.csv ,Books.csv and  Ratings.csv  
 
 **Users**
 
