@@ -60,3 +60,11 @@ This Dataset has total 3 CSV files Users.csv ,Books.csv and  Ratings.csv
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+<h2>💻 Approaches used</h2>
+
+**1. Popularity Based recommendation system :** A popularity-based recommender system, often referred to as a "popularity-based recommendation system" or "popularity recommender," is a straightforward approach to recommending items, such as books, to users based on their overall popularity or popularity within a specific group or demographic. It doesn't rely on personalized user data or preferences but instead suggests items that are already widely recognized or have gained popularity among a broad audience.
+
+**2. Collaborative Filitering Based recommendation system :** Collaborative Filtering is a widely used approach in recommendation systems, including those for books. It relies on user behavior and interactions to make personalized book recommendations.There are two main types of collaborative filtering User-Based Collaborative Filtering & Item-Based Collaborative Filtering.
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
