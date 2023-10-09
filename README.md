@@ -17,26 +17,26 @@ Dataset used in this project is the Kaggle Book-Recommendation dataset.This Data
 
 **Users**
 
-* User-ID: A unique identification number for each user
-* Location:It contains city,state and country  to which the user belongs ,separated by commas
-* Age:The age of the user
+* User-ID: `A unique identification number for each user`
+* Location: `It contains city,state and country  to which the user belongs ,separated by commas`
+* Age: `The age of the user`
 
 **Books**
 
-* ISBN:International Standard Book Number unique to each edition of the book
-* Book-Title:Title of the book
-* Book-Author:Author of the book(incase of several authors only the first is provided)
-* Year-of-Publication:The year in which the particular edition of the book was published
-* Publisher:Name of the Book Publishing company
-* Image-URL-S: URL link to a small version of the book cover displayed on the Amazon website
-* Image-URL-M:	URL link to Medium version image of the book cover displayed on the Amazon website
-* Image-URL-L: URL link to Large sized image of the book cover displayed on the Amazon website
+* ISBN: `International Standard Book Number unique to each edition of the book`
+* Book-Title: `Title of the book`
+* Book-Author: `Author of the book(incase of several authors only the first is provided)`
+* Year-of-Publication: `The year in which the particular edition of the book was published`
+* Publisher: `Name of the Book Publishing company`
+* Image-URL-S: `URL link to a small version of the book cover displayed on the Amazon website`
+* Image-URL-M:	`URL link to Medium version image of the book cover displayed on the Amazon website`
+* Image-URL-L: `URL link to Large sized image of the book cover displayed on the Amazon website`
 
 **Ratings**
 
-* User-ID:as mentioned above
-* ISBN:as mentioned above
-* Book-Rating: The rating given by the user (identified by User-ID) for the book (identified by ISBN). It is either explicit,expressed on a scale from 1-10 (higher values denoting higher appreciation), or implicit,expressed by 0.
+* User-ID: `A unique identification number for each user`
+* ISBN: `International Standard Book Number unique to each edition of the book`
+* Book-Rating: `The rating given by the user (identified by User-ID) for the book (identified by ISBN). It is either explicit,expressed on a scale from 1-10 (higher values denoting higher appreciation), or implicit,expressed by 0.`
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
